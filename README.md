@@ -1,1 +1,22 @@
-# My-First-Data-Analysis-Repository-
+# Project Statement
+
+
+
+
+
+
+# Data Sourcing
+
+
+
+
+
+
+# Data Cleaning
+
+
+
+
+
+
+# Findings & Recommendation 
